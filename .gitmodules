@@ -7,3 +7,4 @@
 [submodule "ADCIRC"]
 	path = ADCIRC
 	url = https://moghimis@github.com/moghimis/adcirc-cg.git
+	branch = rev20171109v1
